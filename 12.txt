@@ -1,1 +1,2 @@
 git remote add origin https://github.com/sadegh740/learnwp.git
+ this is a test
